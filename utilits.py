@@ -1,3 +1,4 @@
+# introduction: 
 def check_guess(guess, target):
     if guess < target:
         print(" Your guess is too small")
