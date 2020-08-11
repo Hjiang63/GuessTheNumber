@@ -5,7 +5,7 @@ def main():
     play_game()
     while True:
         user_input = input("Do you want to play another round [y/n]: ")
-        if user_input.lower() == "n"
+        if user_input.lower() == "n":
             break;
         play_game()
     # while: ask the user if he wants to play anther round
